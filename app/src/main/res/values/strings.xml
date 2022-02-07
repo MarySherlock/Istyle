@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Istyle</string>
+    <string name="user_name_input" translatable="false">请输入用户名/手机号/邮箱</string>
+    <string name="user_password_input" translatable="false">请输入密码</string>
+    <string name="notice">我已阅读并同意\"用户协议\"和\"服务条款\"</string>
+    <string name="submit">注册</string>
+    <string name="forgot_password">忘记密码?</string>
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.istyle"
-    >
+    package="com.example.istyle">
     <!-- IM SDK required start -->
     <!-- 允许程序振动 -->
     <uses-permission android:name="android.permission.VIBRATE" /> <!-- 访问网络权限 -->
@@ -29,10 +28,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Istyle">
         <activity
-            android:name=".controller.activity.LoginActivity"
+            android:name=".controller.activity.ChangePasswordActivity"
             android:exported="false" />
         <activity
-            android:name=".controller.activity.SplashActivity"
+            android:name=".controller.activity.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".controller.activity.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -67,9 +69,7 @@
 
         <activity
             android:name=".controller.activity.MainActivity"
-            android:exported="false">
-
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>
