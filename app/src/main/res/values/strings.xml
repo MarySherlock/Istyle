@@ -5,4 +5,9 @@
     <string name="notice">我已阅读并同意\"用户协议\"和\"服务条款\"</string>
     <string name="submit">注册</string>
     <string name="forgot_password">忘记密码?</string>
+    <string name="title_forum">广场</string>
+    <string name="title_person_img">我的形象</string>
+    <string name="title_wardrobe">衣橱</string>
+    <string name="title_message">消息</string>
+    <string name="title_person_info">我的</string>
 </resources>

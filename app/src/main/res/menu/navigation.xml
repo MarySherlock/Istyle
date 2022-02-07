@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/person_img"
+        android:title="@string/title_person_img"
+        android:icon="@drawable/ic_person_img"/>
+    <item
+        android:id="@+id/wardrobe"
+        android:title="@string/title_wardrobe"
+        android:icon="@drawable/ic_wardrobe"/>
+    <item
+        android:id="@+id/forum"
+        android:title="@string/title_forum"
+        android:icon="@drawable/ic_forum"/>
+    <item
+        android:id="@+id/message"
+        android:title="@string/title_message"
+        android:icon="@drawable/ic_messages"/>
+    <item
+        android:id="@+id/person_info"
+        android:title="@string/title_person_info"
+        android:icon="@drawable/ic_person_info"/>
+
+
+
+</menu>
