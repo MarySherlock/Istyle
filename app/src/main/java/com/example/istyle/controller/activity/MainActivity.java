@@ -1,8 +1,10 @@
-package com.example.istyle;
+package com.example.istyle.controller.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.istyle.R;
 
 public class MainActivity extends AppCompatActivity {
 
